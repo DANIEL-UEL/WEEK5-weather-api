@@ -1,7 +1,7 @@
 {
-  "name": "weather_api",
+  "name": "automobile_api",
   "version": "1.0.0",
-  "description": "This is my new descriptionof the weather_api week-5.",
+  "description": "This is my new descriptionof the automobile_api week-5.",
   "type": "module",
   "engines": {
     "node": ">= 18.12 <21"
@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Lucian Data",
+  "author": "Daniel",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.11.25",
